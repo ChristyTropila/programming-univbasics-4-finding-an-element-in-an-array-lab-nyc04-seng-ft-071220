@@ -8,4 +8,5 @@ while count < array.length do
     end
   count += 1
 end
+found_value_index
 end
